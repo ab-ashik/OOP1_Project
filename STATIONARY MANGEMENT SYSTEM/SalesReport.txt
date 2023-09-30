@@ -1,0 +1,14 @@
+
+
+Quatity : 10 of Product ID : 1111 is sold.
+Total bill is : 0
+
+Quatity : 10 of Product ID : 1111 is sold.
+Total bill is : 100
+
+Quatity : 10 of Product ID : 1111 is sold.
+Total bill is : 300
+
+Quatity : 10 of Product ID : 1111 is sold.
+Total bill is : 300
+
